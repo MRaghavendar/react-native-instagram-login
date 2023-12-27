@@ -31,6 +31,6 @@
   "dependencies": {
     "qs": "6.9.4",
     "react-native-webview": "^10.2.3",
-    "axios": "^0.19.2"
+    "axios": "^1.6.3"
   }
 }
